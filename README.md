@@ -5,8 +5,8 @@
   <a href="https://github.com/naufalijlalariz09">
     <img src="https://img.shields.io/badge/GitHub-naufalijlalariz09-black?logo=github&logoColor=white">
   </a>
-  <a href="https://instagram.com/naufalijlalariz_">
-    <img src="https://img.shields.io/badge/Instagram-@naufalijlalariz_-E4405F?logo=instagram&logoColor=white">
+  <a href="https://instagram.com/privatelifeofpal_">
+    <img src="https://img.shields.io/badge/Instagram-@privatelifeofpal_-E4405F?logo=instagram&logoColor=white">
   </a>
 </p>
 
@@ -49,7 +49,7 @@
 
 ## 📫 Connect With Me
 - 💻 GitHub: [naufalijlalariz09](https://github.com/naufalijlalariz09)  
-- 📸 Instagram: [@naufalijlalariz_](https://instagram.com/naufalijlalariz_)
+- 📸 Instagram: [@privatelifeofpal_](https://instagram.com/privatelifeofpal_)
 
 ---
 
